@@ -9,4 +9,4 @@ This is a *minmal* cover page using flexbox -- it includes a navbar, a central a
 
 Here's what it looks like!
 
-[A minimal cover page.](example.png)
+![A minimal cover page.](example.png)
